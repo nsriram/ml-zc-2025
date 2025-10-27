@@ -44,3 +44,12 @@ with open(input_file, 'rb') as f_in:
 ```
 - The loaded model can be tested with a sample customer
 - 
+
+### Video 3 : Web Services: Introduction to Flask
+
+----
+
+[![Web Services: Introduction to Flask](https://img.youtube.com/vi/W7ubna1Rfv8/0.jpg)](https://www.youtube.com/watch?v=W7ubna1Rfv8&list=PL3MmuxUbc_hIhxl5Ji8t4O6lPAOpHaCLR&index=53)
+
+- simple web api using flask
+- 
