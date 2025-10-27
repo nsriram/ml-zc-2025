@@ -92,3 +92,16 @@ if __name__ == '__main__':
    - conda
    - pipenv
    - poetry
+
+### Video 6 :  Environment management with Docker
+
+----
+
+[![Environment management with Docker](https://img.youtube.com/vi/wAtyYZ6zvAs/0.jpg)](https://www.youtube.com/watch?v=wAtyYZ6zvAs&list=PL3MmuxUbc_hIhxl5Ji8t4O6lPAOpHaCLR&index=56)
+
+
+### Video 7 : Deploying ML Models with FastAPI, UV
+
+----
+
+[![Deploying ML Models with FastAPI, UV](https://img.youtube.com/vi/jzGzw98Eikk/0.jpg)](https://www.youtube.com/watch?v=jzGzw98Eikk)
