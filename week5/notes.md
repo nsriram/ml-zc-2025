@@ -51,5 +51,44 @@ with open(input_file, 'rb') as f_in:
 
 [![Web Services: Introduction to Flask](https://img.youtube.com/vi/W7ubna1Rfv8/0.jpg)](https://www.youtube.com/watch?v=W7ubna1Rfv8&list=PL3MmuxUbc_hIhxl5Ji8t4O6lPAOpHaCLR&index=53)
 
-- simple web api using flask
-- 
+- simple ping api using flask
+
+```
+from flask import Flask
+
+app = Flask('ping')
+
+@app.route('/ping', methods=['GET'])
+def ping():
+    return 'pong', 200
+
+if __name__ == '__main__':
+    app.run(host='0.0.0.0', port=8080)
+```
+
+### Video 4 : Serving the Churn Model with Flask
+
+----
+
+[![Serving the Churn Model with Flask](https://img.youtube.com/vi/Q7ZWPgPnRz8/0.jpg)](https://www.youtube.com/watch?v=Q7ZWPgPnRz8&list=PL3MmuxUbc_hIhxl5Ji8t4O6lPAOpHaCLR&index=54)
+
+- Create a web service that loads the chrun model and exposes an endpoint for predictions
+- Webservice code [predict.py](predict.py)
+- Code to test the webservice [predict-test.py](predict-test.py)
+- gunicorn allows running the webservice in production mode
+- Run the webservice using gunicorn e.g., `gunicorn --bind 0.0.0.0:8080 predict:app`
+
+
+### Video 5 :  Python Virtual Environment: Pipenv
+
+----
+
+[![Python Virtual Environment: Pipenv](https://img.youtube.com/vi/BMXh8JGROHM/0.jpg)](https://www.youtube.com/watch?v=BMXh8JGROHM&list=PL3MmuxUbc_hIhxl5Ji8t4O6lPAOpHaCLR&index=55)
+
+- pipenv is used to create a virtual environment and manage dependencies
+- Different services can have different dependencies and hence virtual environments are useful
+- Tools in python ecosystem for virtual environments
+   - venv (built-in) / virtualenv (out of the box from python)
+   - conda
+   - pipenv
+   - poetry
