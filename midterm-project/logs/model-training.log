@@ -1,0 +1,11 @@
+~/zoomcamp/ml-zc-2025/.venv/bin/python3.12 ~/zoomcamp/ml-zc-2025/midterm-project/train.py
+pandas==2.3.3
+numpy==2.3.5
+sklearn==1.6.1
+Data loaded successfully.
+Fitting 5 folds for each of 486 candidates, totalling 2430 fits
+Model trained successfully.
+Model best estimator extracted.
+Model saved to water_potability_prediction_model_v1_0.joblib successfully.
+
+Process finished with exit code 0

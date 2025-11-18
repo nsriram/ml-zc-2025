@@ -1,0 +1,8 @@
+~/zoomcamp/ml-zc-2025/.venv/bin/python3.12 ~/zoomcamp/ml-zc-2025/midterm-project/test.py
+Water Sample 1 Prediction:
+water is not potable
+
+Water Sample 2 Prediction:
+water is potable
+
+Process finished with exit code 0

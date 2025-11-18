@@ -17,4 +17,16 @@
 3. [Week 3 Homework Jupyter Notebook](week3/homework.ipynb)
 4. [Week 4 Homework Jupyter Notebook](week4/homework.ipynb)
 5. [Week 5 Homework Jupyter Notebook](week5/homework.ipynb)
-5. [Week 6 Homework Jupyter Notebook](week6/homework.ipynb)
+6. [Week 6 Homework Jupyter Notebook](week6/homework.ipynb)
+
+## Midterm Project - Water Potability Prediction Webservice
+- [Midterm Project Readme](midterm-project/Readme.md)
+- [Water Quality Dataset](midterm-project/water_potability.csv)
+- [Jupyter Notebook](midterm-project/notebook.ipynb)
+- [Trained Model](midterm-project/water_potability_prediction_model_v1_0.joblib)
+- [Train Script](midterm-project/train.py)
+- [WebService Script](midterm-project/predict.py)
+- [Custom Transformations](midterm-project/customer_transform.py)
+- [Test Script](midterm-project/test.py)
+- [Dockerfile](./Dockerfile)
+- [Testing Video](midterm-project/media/testing-recording.gif)

@@ -1,0 +1,7 @@
+(ml-zc-2025) ➜  ml-zc-2025 git:(main) ✗ docker run -it --rm -p 9696:9696 water-potability-prediction
+INFO:     Started server process [1]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://0.0.0.0:9696 (Press CTRL+C to quit)
+INFO:     172.17.0.1:39420 - "POST /predict HTTP/1.1" 200 OK
+INFO:     172.17.0.1:39424 - "POST /predict HTTP/1.1" 200 OK
