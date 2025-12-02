@@ -6,3 +6,8 @@ jupyter
 tqdm
 xgboost
 joblib
+tensorflow
+keras
+torch
+torchvision
+torchsummary

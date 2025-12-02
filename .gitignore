@@ -11,3 +11,7 @@ week5/pipeline_v1.bin
 week6/CreditScoring.csv
 week6/car_fuel_efficiency.csv
 midterm-project/__pycache__/
+img-dataset/
+week8/*.h5
+week8/data
+week8/data.zip
