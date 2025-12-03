@@ -1,7 +1,8 @@
 ## Week 8 Notes : Deep Learning
 
 Practice jupyter notebooks: 
-   1. [Deep Learning](week8-deep-learning.ipynb)
+   1. [Deep Learning using Tensorflow](week8-tensorfloew-deep-learning.ipynb)
+   2. [Deep Learning using PyTorch](week8-pytorch-deep-learning.ipynb)
 
 ### Video 1 :  Fashion Classification Project
 
