@@ -1,4 +1,5 @@
-# Repository with ML Zoomcamp 2025 notes and homework solutions
+# Machine Learning Course
+Repository with [Machine Learning Zoomcamp 2025](https://github.com/DataTalksClub/machine-learning-zoomcamp/tree/master/cohorts/2025) notes and homework solutions
 
 ## Install UV
 [Installation](uv-installation.md)
