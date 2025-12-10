@@ -12,6 +12,7 @@ Repository with [Machine Learning Zoomcamp 2025](https://github.com/DataTalksClu
 5. [Week 5 Notes](week5/notes.md) 
 6. [Week 6 Notes](week6/notes.md) 
 7. [Week 8 Notes](week8/notes.md) 
+7. [Week 9 Notes](week9/notes.md) 
 
 ## Homework
 1. [Week 1 Homework Jupyter Notebook](week1/homework.ipynb)
@@ -21,6 +22,7 @@ Repository with [Machine Learning Zoomcamp 2025](https://github.com/DataTalksClu
 5. [Week 5 Homework Jupyter Notebook](week5/homework.ipynb)
 6. [Week 6 Homework Jupyter Notebook](week6/homework.ipynb)
 7. [Week 8 Homework Jupyter Notebook](week8/homework.ipynb)
+7. [Week 9 Homework Jupyter Notebook](week9/homework/homework.ipynb)
 
 ## Midterm Project - Water Potability Prediction Webservice
 - [Midterm Project Readme](midterm-project/Readme.md)
