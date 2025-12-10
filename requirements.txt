@@ -11,3 +11,7 @@ keras
 torch
 torchvision
 torchsummary
+boto3
+onnxruntime
+pillow
+keras_image_helper

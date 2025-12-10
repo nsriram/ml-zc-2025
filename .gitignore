@@ -16,3 +16,5 @@ week8/*.h5
 week8/data
 week8/data.zip
 week8/imagenet_classes.txt
+week9/serverless-workshop/lambda-sklearn/publish.sh
+week9/serverless-workshop/lambda-sklearn/output.json
